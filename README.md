@@ -7,14 +7,16 @@ a feed forward network with image transformation
 
 Content Image:
 ![Content Image](docs/content.jpeg =250x250)
+<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/docs/content.jpeg" width="250">
+
 
 
 Style Image:
-![Style Image](docs/style.jpeg =250x250)
+<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/docs/style.jpeg" width="250">
 
 
 Result of applying style transfer to the content Image:
-![Result Image](docs/result.jpeg)
+<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/docs/result.jpeg" width="250">
 
 
 
