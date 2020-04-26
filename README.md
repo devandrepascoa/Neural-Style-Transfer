@@ -6,11 +6,11 @@ a feed forward network with image transformation
 
 
 Content Image:
-![Content Image](docs/content.jpeg)
+![Content Image](docs/content.jpeg =250x250)
 
 
 Style Image:
-![Style Image](docs/style.jpeg)
+![Style Image](docs/style.jpeg =250x250)
 
 
 Result of applying style transfer to the content Image:
