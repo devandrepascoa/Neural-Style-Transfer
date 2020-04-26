@@ -196,6 +196,7 @@ def NST_Video(path_in,path_out,style_img_path):
     array = []
     for frame in clip.iter_frames():
         array.append(frame)
+        video_writer.write_frame(frame)
         nst = NST(Image_Utils.constrain_img(frame),style_img)
         image = nst.predict(epochs=100)
         plt.imshow(image)
