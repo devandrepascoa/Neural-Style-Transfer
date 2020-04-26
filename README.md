@@ -6,16 +6,16 @@ a feed forward network with image transformation
 
 
 Content Image:
-<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/master/docs/content.jpeg" width="250">
+<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/blob/master/docs/content.jpeg" width="250">
 
 
 
 Style Image:
-<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/master/docs/style.jpeg" width="250">
+<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/blob/master/docs/style.jpeg" width="250">
 
 
 Result of applying style transfer to the content Image:
-<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/master/docs/result.jpeg" width="250">
+<img src="https://github.com/devandrepascoa/Neural-Style-Transfer/blob/master/docs/result.jpeg" width="250">
 
 
 
